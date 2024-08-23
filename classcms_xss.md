@@ -14,10 +14,12 @@ On this page, position parameter is vulnerable to reflected XSS Attack
 <img src=1 onerror=alert(/222/)>
 ```
 ## Trigger popup：
-![image-20240823163707205](/C:/Users/qaz/AppData/Roaming/Typora/typora-user-images/image-20240823163707205.png)
+![image](https://github.com/user-attachments/assets/85bb6ac7-d3cc-4549-a0c8-c2324e2b4a66)
+
 
 This page can be triggered after being modified
 
-![image-20240823163729151](/C:/Users/qaz/AppData/Roaming/Typora/typora-user-images/image-20240823163729151.png)
+![image](https://github.com/user-attachments/assets/1ca59044-fec6-497d-bc3d-54563d4cf882)
 
-![image-20240823163737644](/C:/Users/qaz/AppData/Roaming/Typora/typora-user-images/image-20240823163737644.png)
+![image](https://github.com/user-attachments/assets/31cdc6f8-0c03-421e-aada-951cd45d736e)
+
