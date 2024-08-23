@@ -52,12 +52,14 @@ Upload
 ## Trigger popup：
 When the file is uploaded, the data packet is captured. Change it to the following
 
-t1
+![image](https://github.com/user-attachments/assets/7075f1f7-7367-4f09-8f8b-d748b4694608)
+
 
 When you return to the folder, you can see that the upload was successful
+![image](https://github.com/user-attachments/assets/2b6de873-8e8f-47ba-a41f-46ca04ad001c)
 
-t2
 
 After the test, the directory is inaccessible by default. If the directory and its upper directory do not have.htaccess files, the directory can be successfully accessed
 
-t3
+![image](https://github.com/user-attachments/assets/a018391d-7f01-4fb2-b7a1-c4d818d2bee3)
+
