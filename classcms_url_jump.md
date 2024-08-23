@@ -19,8 +19,10 @@ In the background of the column > Application Management > Default Template > Co
 <meta http-equiv="refresh" content="3,http://www.baidu.com"/>
 ```
 ## Trigger popup：
-t1
+![image](https://github.com/user-attachments/assets/00560de8-7a4f-48a0-b494-48afad48e2fe)
+
 
 Then click to visit the page to trigger
 
-t2
+![image](https://github.com/user-attachments/assets/b12195b6-2090-4bc2-ae4d-d36b6da66a1f)
+
