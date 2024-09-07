@@ -24,6 +24,8 @@ payload: <img src="http://xxx.com/1.png">
 ## Trigger popup：
 
 1, Personal information message, enter ssrfpayload
+![image](https://github.com/user-attachments/assets/9745ff79-ef54-4be9-ac84-ff8ad7473cf4)
 
 2, using burp to trigger the test can see the successful trigger
+![image](https://github.com/user-attachments/assets/075be349-80fc-40d1-9251-41acd32d5690)
 
