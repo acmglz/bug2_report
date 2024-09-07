@@ -32,11 +32,13 @@ p=&group=1&file%5B%5D=../11.txt&delete=Delete
 ## Proof of vulnerability:
 
 1. Create the 11.txt file in another directory
+![image](https://github.com/user-attachments/assets/7a9747d6-4673-4de5-874f-2d495c5f4bc6)
 
    
 
 2. Test arbitrary file deletion according to post data
 
+![image](https://github.com/user-attachments/assets/c12ce9d2-46f1-47ad-9b45-3c789c9384b8)
 
 
 
