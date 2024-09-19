@@ -17,7 +17,11 @@ payload:
 
 ## Proof of vulnerability:
 
+![image](https://github.com/user-attachments/assets/fa51f480-1012-49de-9916-286b254488a2)
+
+
 1. Access: /wcms/
+![image](https://github.com/user-attachments/assets/a3e0e558-de0b-45ed-8d19-e755785950d6)
 
 
 
